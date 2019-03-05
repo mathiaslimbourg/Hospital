@@ -23,5 +23,7 @@ public class MainApp {
         System.out.println("Margaritte");
         System.out.println(receptionist.getPensionDate());
         System.out.println(receptionist.getDaysTillPension());
+
+        //New shit
     }
 }
